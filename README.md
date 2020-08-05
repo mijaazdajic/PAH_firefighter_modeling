@@ -2,7 +2,7 @@
 Dynamic modeling of firefighter exposure to PAHs
 
 
-This is the Python code used to model the dermal absorption of naphthalene in firefighters
+This is the Python code was used in the final project for the dynamica modeling class (BIO8102) at the University of Ottawa, presented to Dr John Lewis
 #
 
 
