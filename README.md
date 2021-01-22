@@ -2,7 +2,7 @@
 Dynamic modeling of firefighter exposure to PAHs
 
 
-This is the Python code was written by Jennifer Kier and Mija Azdajic and used in the final project for the dynamica modeling class (BIO8102) at the University of Ottawa, presented to Dr John Lewis
+This is the Python code was written by Jennifer Kier and Mija Azdajic and used in the final project for the dynamic modeling class (BIO8102) at the University of Ottawa, presented to Dr John Lewis
 #
 
 
